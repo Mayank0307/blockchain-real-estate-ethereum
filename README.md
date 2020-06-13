@@ -18,16 +18,16 @@ truffle> test
 
 4. Compile Smart Contracts using Truffle
 ```
-$ truffle compile
+## truffle compile
 ```
 ![Screenshot (829)](https://user-images.githubusercontent.com/52233220/84560426-ab901180-ad61-11ea-99fc-73ae72273d02.png)
 
 5. Deploy Smart Contracts to the Rinkeby Testnet
 ```
-$ truffle migrate --network rinkebyk
+## truffle migrate --network rinkebyk
 ![Screenshot (830)](https://user-images.githubusercontent.com/52233220/84560440-c4002c00-ad61-11ea-84bd-80586917e9bc.png)
 
-### UML digrams:
+## UML digrams:
 ## ACTIVITY DIGRAM:
 
 ![Coffee_Activity](https://user-images.githubusercontent.com/52233220/84560462-07f33100-ad62-11ea-9553-bf185f90e969.png)
