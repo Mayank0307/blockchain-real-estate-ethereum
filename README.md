@@ -22,7 +22,7 @@ truffle> test
 ```
 ![Screenshot (829)](https://user-images.githubusercontent.com/52233220/84560426-ab901180-ad61-11ea-99fc-73ae72273d02.png)
 
-5. Deploy Smart Contracts to the Rinkeby Testnet
+## Deploy Smart Contracts to the Rinkeby Testnet
 ```
 ## truffle migrate --network rinkebyk
 ![Screenshot (830)](https://user-images.githubusercontent.com/52233220/84560440-c4002c00-ad61-11ea-84bd-80586917e9bc.png)
