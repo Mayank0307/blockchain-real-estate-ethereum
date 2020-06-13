@@ -21,7 +21,7 @@ truffle> test
 ![Screenshot (829)](https://user-images.githubusercontent.com/52233220/84560426-ab901180-ad61-11ea-99fc-73ae72273d02.png)
 
 ## Deploy Smart Contracts to the Rinkeby Testnet
-```
+
 ## truffle migrate --network rinkebyk
 ![Screenshot (830)](https://user-images.githubusercontent.com/52233220/84560440-c4002c00-ad61-11ea-84bd-80586917e9bc.png)
 
@@ -39,7 +39,6 @@ truffle> test
 ## SEQUENCE DIGRAM:
 ![Coffee_Sequence](https://user-images.githubusercontent.com/52233220/84560481-45f05500-ad62-11ea-9d71-b729f5a7c674.png)
 
-```
 
 ### Libraries used
 The only Library used was `truffle-hdwallet-provider` to deploy the Smart Contracts to the Rinkeby Testnet using infura.
