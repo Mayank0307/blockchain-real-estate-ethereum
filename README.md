@@ -17,9 +17,7 @@ truffle> test
 ```
 
 4. Compile Smart Contracts using Truffle
-```
 ## truffle compile
-```
 ![Screenshot (829)](https://user-images.githubusercontent.com/52233220/84560426-ab901180-ad61-11ea-99fc-73ae72273d02.png)
 
 ## Deploy Smart Contracts to the Rinkeby Testnet
