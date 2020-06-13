@@ -22,7 +22,7 @@ truffle> test
 
 ## Deploy Smart Contracts to the Rinkeby Testnet
 
-## truffle migrate --network rinkebyk
+## truffle migrate --network rinkeby
 ![Screenshot (830)](https://user-images.githubusercontent.com/52233220/84560440-c4002c00-ad61-11ea-84bd-80586917e9bc.png)
 
 ## UML digrams:
